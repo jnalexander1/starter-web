@@ -1,7 +1,11 @@
 # Starter Web Project
 
+<<<<<<< HEAD
 This is a simple website project for showing how to use Git and Github together.  Adding a line
 for rebasing example, then more changes from myfeature branch too.
+=======
+This is a simple website project for showing how to use Git and Github together.
+>>>>>>> parent of 5b5bfda... Adding oneliner to README for rebase example
 
 ## Introduction
 
